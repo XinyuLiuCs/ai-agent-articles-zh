@@ -1,5 +1,7 @@
 # 我们如何构建多智能体研究系统
 
+https://www.anthropic.com/engineering/multi-agent-research-system
+
 发布日期：2025年6月13日
 
 我们的研究功能使用多个 Claude 智能体来更有效地探索复杂主题。本文分享构建这一系统过程中遇到的工程挑战和经验教训。

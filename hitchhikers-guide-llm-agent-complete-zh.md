@@ -1,6 +1,7 @@
 # LLM Agent 实用指南
 
-*The Hitchhikers Guide to LLM Agent*
+*The Hitchhikers Guide to LLM Agent*---
+https://saurabhalone.com/blog/agent
 
 Manfred Mohr - P-197 Cubic Limit II (1979)
 

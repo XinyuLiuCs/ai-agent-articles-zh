@@ -1,6 +1,7 @@
 # AI 智能体的上下文工程：构建 Manus 的经验教训
 
-Context Engineering for AI Agents: Lessons from Building Manus
+Context Engineering for AI Agents: Lessons from Building Manus---
+https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus
 
 2025年7月18日
 

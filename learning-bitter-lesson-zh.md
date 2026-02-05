@@ -1,6 +1,6 @@
 # 学习痛苦的教训
 
-*Learning the Bitter Lesson*
+*Learning the Bitter Lesson*---
 https://rlancemartin.github.io/2025/07/30/bitter_lesson/
 
 Lance Martin

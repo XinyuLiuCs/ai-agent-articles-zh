@@ -1,6 +1,7 @@
 # 构建有效的智能体
 
-*Building effective agents*
+*Building effective agents*---
+https://www.anthropic.com/engineering/building-effective-agents
 
 发布日期：2024年12月19日
 

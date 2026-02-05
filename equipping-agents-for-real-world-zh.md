@@ -1,6 +1,7 @@
 # 用 Agent Skills 为真实世界装备智能体
 
-Equipping agents for the real world with Agent Skills
+Equipping agents for the real world with Agent Skills---
+https://claude.com/blog/equipping-agents-for-the-real-world-with-agent-skills
 
 Claude 很强大，但真正的工作需要过程性知识和组织上下文。我们推出 Agent Skills，这是一种使用文件和文件夹构建专业智能体的新方法。
 

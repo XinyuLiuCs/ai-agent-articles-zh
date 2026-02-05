@@ -1,6 +1,7 @@
 # Claude 开发者平台的高级工具使用
 
-Introducing advanced tool use on the Claude Developer Platform
+Introducing advanced tool use on the Claude Developer Platform---
+https://www.anthropic.com/engineering/advanced-tool-use
 
 发布日期：2025年11月24日
 

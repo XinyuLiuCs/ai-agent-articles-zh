@@ -1,6 +1,7 @@
 # AI 智能体的有效上下文工程
 
-Effective context engineering for AI agents
+Effective context engineering for AI agents---
+https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
 
 发布日期：2025年9月29日
 

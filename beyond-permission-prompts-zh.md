@@ -1,6 +1,7 @@
 # 超越权限提示：让 Claude Code 更安全和自主
 
-Beyond permission prompts: making Claude Code more secure and autonomous
+Beyond permission prompts: making Claude Code more secure and autonomous---
+https://www.anthropic.com/engineering/claude-code-sandboxing
 
 发布日期：2025年10月20日
 

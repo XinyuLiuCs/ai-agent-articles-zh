@@ -1,7 +1,6 @@
 # 长期运行智能体的有效框架
 
-*Effective harnesses for long-running agents*
-
+*Effective harnesses for long-running agents*---
 https://www.anthropic.com/research/effective-harnesses-long-running-agents
 
 发布于2025年11月26日

@@ -1,6 +1,6 @@
 # 痛苦的教训
 
-*The Bitter Lesson*
+*The Bitter Lesson*---
 http://www.incompleteideas.net/IncIdeas/BitterLesson.html
 
 

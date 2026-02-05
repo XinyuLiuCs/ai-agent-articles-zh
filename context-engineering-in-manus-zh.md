@@ -1,6 +1,7 @@
 # Manus 中的上下文工程
 
-Context Engineering in Manus
+Context Engineering in Manus---
+https://rlancemartin.github.io/2025/10/15/manus/
 
 2025年10月15日
 
