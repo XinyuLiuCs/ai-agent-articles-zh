@@ -1,0 +1,14 @@
+# Claude Code配置
+.claude/
+
+# 编辑器和IDE
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 临时文件
+*.tmp
+*.bak
