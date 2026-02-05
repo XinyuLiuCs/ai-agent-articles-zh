@@ -4,34 +4,58 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Purpose
 
-This repository contains Chinese translations of technical articles about Claude, AI agents, and AI research methodologies. Each document is a bilingual translation with Chinese content followed by the original English text.
+This repository (https://github.com/XinyuLiuCs/ai-agent-articles-zh) contains Chinese translations of technical articles about AI agents, LLM applications, and AI research methodologies. Each document is a bilingual translation with Chinese content followed by the original English text.
+
+**License**: MIT License (Copyright 2025 XinyuLiuCs)
+
+## Repository Structure
+
+The repository uses a flat structure with all 13 translation documents in the root directory, organized by topic:
+
+- **AI研究方法论** (2 articles): bitter-lesson, learning-bitter-lesson
+- **多智能体系统** (1 article): anthropic-multi-agent-research-system
+- **上下文工程** (4 articles): effective-context-engineering, context-engineering-for-agents, context-engineering-for-ai-agents-lessons-from-building-manus, context-engineering-in-manus
+- **智能体构建** (4 articles): building-effective-agents, equipping-agents-for-real-world, effective-harnesses-long-running-agents, hitchhikers-guide-llm-agent-complete
+- **工具使用** (2 articles): introducing-advanced-tool-use, beyond-permission-prompts
 
 ## Document Structure
 
 All markdown files follow a consistent format:
-- Chinese title (primary)
-- English title (secondary, in italics)
+- Chinese title (H1)
+- English title (secondary)
+- Original article link
 - Publication date
-- Bilingual content throughout (Chinese paragraphs followed by English)
-
-## Current Documents
-
-1. **anthropic-multi-agent-research-system-zh.md** - Multi-agent research systems architecture and engineering lessons
-2. **beyond-permission-prompts-zh.md** - Claude Code security features including sandboxing
-3. **bitter-lesson-zh.md** - Rich Sutton's foundational essay on general methods and computation in AI research
-4. **effective-context-engineering-for-ai-agents-zh.md** - Context engineering strategies for AI agents
-5. **effective-harnesses-long-running-agents-zh.md** - Solutions for maintaining agent progress across multiple context windows
-6. **equipping-agents-for-real-world-zh.md** - Agent Skills system for building specialized agents
-7. **introducing-advanced-tool-use-zh.md** - Advanced tool use features on Claude Developer Platform
-8. **learning-bitter-lesson-zh.md** - Applying the Bitter Lesson to AI engineering and application development
+- Bilingual content: each English paragraph followed immediately by its Chinese translation
+- Preserve all Markdown formatting, code blocks, headers, and structure
 
 ## File Naming Convention
 
-Files use the pattern: `[original-title]-zh.md` where `-zh` indicates Chinese translation.
+Files use the pattern: `[original-title-slug]-zh.md` where `-zh` indicates Chinese translation.
 
-## Permissions
+## Repository Management
 
-The `.claude/settings.local.json` file allows Claude Code to fetch content from www.anthropic.com for reference during translation work.
+### Adding New Translations
+
+When adding a new translation document:
+
+1. **Create the translation file** following the naming convention
+2. **Update README.md** with the new document:
+   - Add entry under the appropriate category
+   - Use format: `[**English Title 中文标题**](filename-zh.md) - Brief description`
+   - Update the document count badge if needed
+3. **Include original article link** at the top of the translation
+4. **Stage and commit** with descriptive message
+
+### Git Workflow
+
+- **User identity**: `XinyuLiuCs <xinyu.liu.cs@gmail.com>`
+- **Remote**: `git@github.com:XinyuLiuCs/ai-agent-articles-zh.git` (SSH)
+- **Commit messages**: Use descriptive, bilingual commit messages with Co-Authored-By attribution
+- When committing translation work, mention the article title and key improvements
+
+### Acknowledgments
+
+When adding new translations, check if new sources need to be added to the acknowledgments section in README.md. Current acknowledged sources include: ninehills, Anthropic, Lance Martin, Saurabh, and Manus team.
 
 ## Translation Workflow
 
