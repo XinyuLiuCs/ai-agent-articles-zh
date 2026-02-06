@@ -1,7 +1,7 @@
 # AI Agent 技术文章中文翻译集
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![文档数量](https://img.shields.io/badge/文档-13篇-blue.svg)]()
+[![文档数量](https://img.shields.io/badge/文档-15篇-blue.svg)]()
 [![语言](https://img.shields.io/badge/语言-中文%2F英文-green.svg)]()
 
 ## 简介
@@ -21,6 +21,7 @@
 
 - [**The Bitter Lesson 苦涩的教训**](bitter-lesson-zh.md) - Rich Sutton关于通用方法与算力的经典文章
 - [**Learning the Bitter Lesson 学习苦涩的教训**](learning-bitter-lesson-zh.md) - 将Bitter Lesson应用于AI工程实践
+- [**Measuring AI Ability to Complete Long Tasks 衡量AI完成长任务的能力**](measuring-ai-ability-complete-long-tasks-zh.md) - METR提出以任务长度衡量AI能力，发现该指标每7个月翻一番
 
 ### 多智能体系统
 
@@ -44,6 +45,7 @@
 
 - [**Introducing advanced tool use on the Claude Developer Platform**](introducing-advanced-tool-use-zh.md) - 介绍Tool Search Tool（工具搜索工具）、Programmatic Tool Calling（程序化工具调用）、Tool Use Examples（工具示例）三种范式
 - [**Beyond permission prompts: making Claude Code more secure and autonomous**](beyond-permission-prompts-zh.md) - Claude Code Sandbox 机制的介绍
+- [**Writing effective tools for agents — with agents 为智能体编写高效工具**](writing-effective-tools-for-agents-zh.md) - 编写高质量MCP工具与评估的完整方法论，含工具命名空间、上下文优化等原则
 
 ## 翻译标准
 
@@ -83,4 +85,5 @@
 - [**Lance's Blog**](https://rlancemartin.github.io/) 
 - [**Saurabh**](https://saurabhalone.com/)
 - [**manus**](https://manus.im/blog)
+- [**METR**](https://metr.org/) - AI能力评估与预测研究
 - 其他贡献者
