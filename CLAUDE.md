@@ -12,13 +12,13 @@ This repository (https://github.com/XinyuLiuCs/ai-agent-articles-zh) contains Ch
 
 Flat structure with all translation documents in the root directory. Files use the naming pattern `[original-title-slug]-zh.md`.
 
-Categories (15 articles total):
+Categories (17 articles total):
 
 - **AI研究方法论** (3 articles): bitter-lesson, learning-bitter-lesson, measuring-ai-ability-complete-long-tasks
 - **多智能体系统** (1 article): anthropic-multi-agent-research-system
 - **上下文工程** (4 articles): effective-context-engineering-for-ai-agents, context-engineering-for-agents, context-engineering-for-ai-agents-lessons-from-building-manus, context-engineering-in-manus
-- **智能体构建** (4 articles): building-effective-agents, equipping-agents-for-real-world, effective-harnesses-long-running-agents, hitchhikers-guide-llm-agent-complete
-- **工具使用** (3 articles): introducing-advanced-tool-use, beyond-permission-prompts, writing-effective-tools-for-agents
+- **智能体构建** (5 articles): building-effective-agents, equipping-agents-for-real-world, effective-harnesses-long-running-agents, hitchhikers-guide-llm-agent-complete, react-synergizing-reasoning-acting-language-models
+- **工具使用** (4 articles): introducing-advanced-tool-use, beyond-permission-prompts, writing-effective-tools-for-agents, structured-model-outputs
 
 ## Document Format
 
@@ -82,4 +82,4 @@ Use this two-step internal process (output only the final result):
 
 ### Acknowledged Sources
 
-Current sources in README.md: ninehills, Anthropic, Lance Martin, Saurabh, Manus team, METR.
+Current sources in README.md: ninehills, Anthropic, Lance Martin, Saurabh, Manus team, METR, OpenAI.

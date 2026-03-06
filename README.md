@@ -1,7 +1,7 @@
 # AI Agent 技术文章中文翻译集
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![文档数量](https://img.shields.io/badge/文档-15篇-blue.svg)]()
+[![文档数量](https://img.shields.io/badge/文档-17篇-blue.svg)]()
 [![语言](https://img.shields.io/badge/语言-中文%2F英文-green.svg)]()
 
 ## 简介
@@ -39,6 +39,7 @@
 - [**Building effective agents**](building-effective-agents-zh.md) - 将 Workflow 和 Autonomous Agent 拆分，并着重在未来 Agent 的发展。
 - [**Equipping agents for the real world with Agent Skills**](equipping-agents-for-real-world-zh.md) - Agent Skills系统
 - [**Effective harnesses for long-running agents**](effective-harnesses-long-running-agents-zh.md) - 长期运行智能体的有效框架
+- [**ReAct: Synergizing Reasoning and Acting in Language Models 在语言模型中协同推理与行动**](react-synergizing-reasoning-acting-language-models-zh.md) - 提出推理与行动协同的经典范式，是当前AI Agent系统的重要理论基础
 - [**The Hitchhikers Guide to LLM Agent**](hitchhikers-guide-llm-agent-complete-zh.md) - 从零构建编码智能体的完整经验
 
 ### 工具使用
@@ -46,6 +47,7 @@
 - [**Introducing advanced tool use on the Claude Developer Platform**](introducing-advanced-tool-use-zh.md) - 介绍Tool Search Tool（工具搜索工具）、Programmatic Tool Calling（程序化工具调用）、Tool Use Examples（工具示例）三种范式
 - [**Beyond permission prompts: making Claude Code more secure and autonomous**](beyond-permission-prompts-zh.md) - Claude Code Sandbox 机制的介绍
 - [**Writing effective tools for agents — with agents 为智能体编写高效工具**](writing-effective-tools-for-agents-zh.md) - 编写高质量MCP工具与评估的完整方法论，含工具命名空间、上下文优化等原则
+- [**Structured model outputs 结构化模型输出**](structured-model-outputs-zh.md) - OpenAI结构化输出功能详解，确保模型响应严格遵循JSON Schema定义
 
 ## 翻译标准
 
@@ -86,4 +88,6 @@
 - [**Saurabh**](https://saurabhalone.com/)
 - [**manus**](https://manus.im/blog)
 - [**METR**](https://metr.org/) - AI能力评估与预测研究
+- [**Shunyu Yao / Princeton NLP**](https://ysymyth.github.io/) - ReAct论文
+- [**OpenAI**](https://openai.com/) - 结构化输出技术文档
 - 其他贡献者
