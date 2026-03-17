@@ -1,7 +1,7 @@
 # AI Agent 技术文章中文翻译集
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![文档数量](https://img.shields.io/badge/文档-17篇-blue.svg)]()
+[![文档数量](https://img.shields.io/badge/文档-19篇-blue.svg)]()
 [![语言](https://img.shields.io/badge/语言-中文%2F英文-green.svg)]()
 
 ## 简介
@@ -49,6 +49,14 @@
 - [**Writing effective tools for agents — with agents 为智能体编写高效工具**](writing-effective-tools-for-agents-zh.md) - 编写高质量MCP工具与评估的完整方法论，含工具命名空间、上下文优化等原则
 - [**Structured model outputs 结构化模型输出**](structured-model-outputs-zh.md) - OpenAI结构化输出功能详解，确保模型响应严格遵循JSON Schema定义
 
+### API 与 SDK
+
+- [**Building LLM-Powered Applications with Claude 使用Claude构建LLM驱动的应用**](claude-api-zh.md) - Claude API与Anthropic SDK完整开发指南，涵盖模型选择、工具调用、Agent SDK、流式传输、结构化输出等核心功能
+
+### DevOps / CI/CD
+
+- [**GitHub Actions**](github-actions-zh.md) - 使用GitHub Actions构建CI/CD流水线，涵盖工作流、触发器、缓存、矩阵构建、密钥管理、可复用工作流等完整实践指南
+
 ## 翻译标准
 
 本项目遵循严格的翻译标准，详见 [CLAUDE.md](CLAUDE.md)。核心原则包括：
@@ -90,4 +98,5 @@
 - [**METR**](https://metr.org/) - AI能力评估与预测研究
 - [**Shunyu Yao / Princeton NLP**](https://ysymyth.github.io/) - ReAct论文
 - [**OpenAI**](https://openai.com/) - 结构化输出技术文档
+- [**terminal-skills**](https://github.com/anthropics/claude-code) - GitHub Actions技能文档
 - 其他贡献者
